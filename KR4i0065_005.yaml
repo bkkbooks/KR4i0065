@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄘牆有茨鄘人刺三監之詩興也相鼠刺三叔之詩興也伯兮鄘人有從武庚而伐衛者室家憂而作一章二章賦也三章比而後賦也四章賦也考槃美隱者之詩賦也木瓜朋友相贈之詩賦也芄蘭刺霍叔也以童子僭成人之服比其不度德量力而助武庚作亂有狐君子于寒夜見貧民與狐涉水而傷之賦也氓淫婦為人所棄鄘人述其事以刺之首二章皆賦也三四章皆興也五章賦也六章賦中有比也
+  hash: sha256:f0110e366ed9f80fdc96c73da769e995e189abe77f40e569afc3e9135e0de47c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_005-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:ae6f9a323b16508a3dccfa1414c6b3df305f8de70234eb66f4e3785def1892f2

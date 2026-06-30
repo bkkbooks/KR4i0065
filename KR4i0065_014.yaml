@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陳宛丘陳人譏其大夫之詩賦也衡門君子樂隱之詩賦也株林陳靈公通乎夏姬國人刺之賦也墓門泄冶諫靈公孔寧儀行父譖而囚之冶作是詩興也防有鵲巢泄冶被讒內子憂之而作比而後賦也澤陂泄冶諫而死君子傷之興也東門之枌東門之池東門之楊月出朋友相期不至而作興也
+  hash: sha256:bf9fa1649d7b5946c11021b41b6f785080810dea69ac830deecbdb0860f0f85d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_014-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:c64cce9707fd6b92f1944aff33748a28accc376c880e3186cc698a00efaca5e4

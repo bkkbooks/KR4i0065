@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大雅傳蕩厲王無道召穆公賦諫之賦也桑柔芮良夫傷厲王之失國而作是詩首章先比而後賦也二三四章皆賦也五章賦中有比也六七八章皆賦也九章興也十章賦也十一章興也十二章十三章皆興也末三章皆賦也民勞厲王之時公卿憂亂同列相戒而作此詩賦也板厲王用事之臣多懷不忠以致禍敗公卿賦此以責之賦也瞻仰幽王嬖褒姒任奄人尹伯奇憂亂而作此詩前三章皆賦也第四章賦中有興也五章六章皆賦也末章興也召旻幽王邇刑人近頑童諂巧用讒慝諸侯攜二戎狄內侵饑饉因之國人流散尹伯奇諫王而作是詩前三章皆賦也四章比而賦也五章賦中有比也六章比而賦也末章賦也
+  hash: sha256:8e66e96622f5bb7118dd21c15eded20380d3e585edc66cdffb93b5374d32d7d2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_021-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:e61df04dbe9fbe6b079ebf873617ec53c34aaa90945549d2d34a066f00b655f3

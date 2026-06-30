@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/23
+seq: 23
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頌閔予小子成王免喪始朝先王之廟作詩四篇以自警皆賦也訪落成王既朝于廟因作此詩以道延訪群臣之意賦也敬之成王受群臣之戒而述其言賦也毖亦訪落之意賦也載見此諸侯助祭于武王廟之詩賦也有客成王既討武庚封微子啟于宋來朝于周見於祖廟此其燕樂之歌賦也有瞽始作樂而合乎祖之詩賦也潛薦魚于寢廟之樂歌賦也絲衣士執事於王祭而飲以旅酬之樂歌賦也臣工祭先農之詩賦也豐年秋冬報賽之樂歌蓋祀田祖先農方社之屬賦也載芟亦豐年之意賦也良耜與載芟同意賦也昊天有成命康王禘成王于明堂之詩賦也噫嘻康王孟春祈穀于東郊以成王配享之詩賦也執競昭王禘康王于明堂之詩賦也
+  hash: sha256:dff1ef804c706ec0f7d63a88afa1263c2635666dce9f363205bcefedcd942801
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_023-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:23adcccd53b954597726ec6f1117967f3556172293715bd1c1c699d3674b6987

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魏伐檀君子能其宦而不用魏人慕之而作是詩比而興也十畝之間政亂國危賢者不樂仕于其朝而思與友歸於農畝賦也杕杜君子教人孝友之詩興也陟岵魏人行役而思其親故作此詩賦也園有桃君子憂國而歎之故作詩賦也碩鼠大夫貪戾魏人怨之而作是詩比而後賦也鴇羽民從征役而不得養其父母故作此詩興也葛履魏之內子儉不中禮媵者怨之一章興也二章賦也
+  hash: sha256:91033bcf33a2b3679bab99430a592417a2b881cf819d4149d55bbd127b7da2bf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_009-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:30a4210da9f27131e2e494c562be9e82f255071067c274e3528dd668c8b1d427

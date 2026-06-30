@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商頌那祀成湯之樂歌賦也烈祖與上篇同長發大禘之詩賦也玄鳥此亦禘祀之詩賦也殷武祀高宗之樂蓋帝乙之世武丁親盡當祧以其中興功高存而不毀特新其廟稱為高宗而祀之故作此歌賦也
+  hash: sha256:1d2629ed39600079b5ed6bb36a34635532bdd4a24fba38c52a73cbcf6b85cfdd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_024-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:7c8820eb1718262bfe598abf19edcf31c08cfbfebc7a782e0a1d94c8d303958f

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頌清廟周公成洛也奉成王見諸侯作明堂宗祀文王以配昊天上帝率諸侯祀之而作此樂歌賦也維天之命亦祭文王之詩賦也維清亦祭文王于明堂而奏象舞之詩賦也思文郊祀后稷以配天之樂歌賦也天作周祭岐山配以大王文王之詩賦也我將季秋禘上帝于明堂而配以文王之樂歌也賦也雍成王祀文武之詩賦也烈文成王祭宗廟而獻助祭諸侯之樂歌賦也振鷺先代之後助祭于周而勞之之歌興也武大武一成之歌賦也賚述武王大封于廟之詩為大武之二成賦也時邁述武王巡守而朝會祭告之樂歌蓋大武之三成也賦也般此述巡守之詩為大武之四成賦也勺亦頌武王之詩蓋大武之五成賦也桓此大武六成之歌賦也
+  hash: sha256:b36af5f9654b6f482a2ee476d307b1596d8c6f421fee07a3cd82ef1819dc2394
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_022-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:74c8a4b3127d09479a72e9c120801ea3dc6e37266499831513dff6b5ccb09169

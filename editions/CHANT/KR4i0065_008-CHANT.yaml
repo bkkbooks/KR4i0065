@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊東方未明齊大夫相戒以勸于公故作此詩前二章皆賦也末比而賦也盧齊襄公好田君子諷之而作是詩賦也營齊俗好田君子刺之賦也丰襄公無道即位之四年公弟小白避之莒齊人慕之而作是詩賦也敝笱魯桓與夫人文姜如齊而襄公通焉齊人刺之比而後賦也南山襄公久留文姜齊人刺之比而後賦也載驅齊襄納衛朔抗王人魯人從之文姜歸齊以犒師齊人刺之賦也猗嗟魯莊公朝于齊遂及齊大夫狩禚齊人刺之賦也風雨齊桓得管仲以為相齊人喜之而作是詩比而後賦也雞鳴齊衛姬勸桓公以勤政故作此詩賦也東方之日齊莊公好女樂君子譏之賦也甫田齊景公急於圖霸大夫諷之二章興也末比也著齊俗廢親迎之禮君子譏之賦也
+  hash: sha256:9ca0cba8e07fba05fd984a65aac7f40238c24239c78f2f865d3d3503e8cec239
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_008-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:77ac2fcc7ed22bef502d60f707f648d3112a12d368ba842cbb49b06e2214d95e

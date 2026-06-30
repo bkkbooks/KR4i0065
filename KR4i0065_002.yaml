@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 召南鵲巢諸侯嫁女其民觀焉即其事而賦之也采蘩美夫人親蠶之詩賦也江有汜諸侯之媵始不容於嫡終而進之故作是詩興也羔羊美大夫之詩賦也采蘋內子敬祀詩人賦之殷其靁武王克商諸侯受命于周廟出就終南之館故作此詩皆比而後賦也草蟲南國大夫夏聘于周次于終南睹王室之多賢相率以歸心焉賦也小星小臣奉使行役之詩賦也鄒虞美虞人之詩賦也摽有梅女父擇壻之詩興也野麋昏姻惡無禮之詩賦也行露強委禽而不受至於興訟大夫以禮斷之而國史美之一章比也二章三章皆興也甘棠燕人追美召公之詩賦也
+  hash: sha256:0e08d5af5f1539841f6fedf1048de3e7018b725b8b81696f874c7edb483cb5c9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_002-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:e2f22afc8cc5dbf6807d13e36d2abed227c9dc55fada937047b14b8ab3633628

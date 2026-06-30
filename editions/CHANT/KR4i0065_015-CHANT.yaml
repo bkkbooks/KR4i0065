@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秦無衣秦襄公以王命征戎周人赴之賦也小戎秦襄公征戎而勞其大夫之詩賦也車鄰襄公初為諸侯周大夫與燕美之而作首章賦也下二章比也終南襄公初為諸侯秦人祝之而作興也駟鐵秦人從狩而作賦也渭陽晉公子重耳歸于晉秦穆公送之而作是詩賦也黃鳥秦穆公卒世子罃以三良殉之秦人傷之而作是詩興也蒹葭君子隱于河上秦人慕之而作是詩興而比也晨風秦君遇賢始勤終怠賢人譏之興也權輿與前篇同義賦也
+  hash: sha256:5afc4f899563695d823b0dcdf9dcc04ceca6088071973f3ca2675e4767041dd8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_015-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:f8870495781620dc6c1e033c317fc6adac153dd7be49757288c5d99e690138a2

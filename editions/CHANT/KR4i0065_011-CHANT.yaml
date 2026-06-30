@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曹尸鳩曹尗為政有度國人美之而作是詩興也下泉東遷之初曹人閔周而作皆比而後賦也蜉蝣君怠國危曹大夫閔之而作皆比而賦也候人曹君多任非人國人諷之首章賦也後三章比也
+  hash: sha256:b32934b59d2179481124f40f163cdd16da65fbf784fa30237610b9594cc323c7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_011-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:bb4016d483f19ac2cdf6a74e2f2646abbe358ee8c79daef4bcd113d49801adb5

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0065/chant/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄶羔求鄶君不能自強于政治國人憂之而作賦也匪風周室衰微賢人憂嘆而作賦也萇楚鄶人困於賦役而作賦也素冠三年之喪廢君子傷之而作賦也𣉠之水兄弟為人所間而被讒者訴之詞比而賦也大路棄婦之詞賦也
+  hash: sha256:057cf3d7143c35a42cb7045ab69afeb1367403fe33122b92a29edeadb6a68774
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_012-1a.1-h}
+metadata:
+  title: 申培詩說
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4i0065.xml
+hash: sha256:daedfd7ee9d9216ee77bde0fe2d1ea1f20bd8ffc6f491e07d6c2af62b360e702
