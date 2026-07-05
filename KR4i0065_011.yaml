@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曹尸鳩曹叔為政有度國人美之而作是詩興也下泉東遷之初曹人閔周而作皆比而後賦也蜉蝣君怠國危曹大夫閔之而作皆比而賦也候人曹君多任非人國人諷之首章賦也後三章比也
-  hash: sha256:414d3eac06c1f1ad6f1833bd5f5d5726ac9cb12d14710f7d393db37529f134d2
+  text: 曹尸鳩曹尗為政有度國人美之而作是詩興也下泉東遷之初曹人閔周而作皆比而後賦也蜉蝣君怠國危曹大夫閔之而作皆比而賦也候人曹君多任非人國人諷之首章賦也後三章比也
+  hash: sha256:b32934b59d2179481124f40f163cdd16da65fbf784fa30237610b9594cc323c7
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4i0065_CHANT_011-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4i0065.xml
-hash: sha256:3bb53e31230a9768541d0f783cff1e7d25f7ab5b95bd8b17ee094e3385bd42f4
+hash: sha256:bb4016d483f19ac2cdf6a74e2f2646abbe358ee8c79daef4bcd113d49801adb5
